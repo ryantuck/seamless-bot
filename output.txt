@@ -1,0 +1,50 @@
+============================================
+order
+--------------------------------------------
+tuck
+	3.00 	1 x scally panz
+	5.25 	1 x steamy tiny pork b's
+	5.25 	1 x steamy pork dumps
+	13.50 	total
+molly
+	5.25 	1 x steamy tiny pork b's
+	5.25 	1 x broiled leaky pork dumps
+	10.50 	total
+george
+	5.25 	1 x friend tiny pork b's
+	5.25 	total
+tim
+	10.50 	2 x pf pork dumps
+	10.50 	total
+terry
+	5.25 	1 x steamy tiny pork b's
+	5.25 	1 x pf pork dumps
+	10.50 	total
+mc2
+	8.00 	1 x shangy chicky lo lo's
+	8.00 	total
+aron
+	3.00 	1 x scally panz
+	5.25 	1 x steamy tiny pork b's
+	5.25 	1 x broiled leaky pork dumps
+	13.50 	total
+kooze
+	8.00 	1 x shangy chicky lo lo's
+	8.00 	total
+============================================
+totals owed
+--------------------------------------------
+tuck 		16.35
+molly 		12.72
+mc2 		9.69
+tim 		12.72
+terry 		12.72
+george 		6.36
+aron 		16.35
+kooze 		9.69
+============================================
+order summary
+--------------------------------------------
+subtotal: 	79.75
+tax/tip: 	16.83
+total: 		96.58
