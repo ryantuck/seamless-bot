@@ -30,7 +30,7 @@ for person, items in order['people'].iteritems():
 
 # spread tax and tip based on percentage of total
 print '============================================'
-print 'totals owed'
+print 'totals owed (+ tax n tip)'
 print '--------------------------------------------'
 pre_tax_tip_subtotal = sum(owed.values())
 tax_n_tip = order['tax'] + order['tip']
