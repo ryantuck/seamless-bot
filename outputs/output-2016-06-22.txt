@@ -1,0 +1,59 @@
+============================================
+order
+--------------------------------------------
+flora
+	4.50 	1 x shrimmmmmmmmmmmmm
+	4.50 	total
+george
+	3.50 	1 x shreddy por por veggie stew
+	3.50 	total
+tuck
+	3.00 	1 x scally panz
+	4.50 	1 x shrimmmmmmmmmmmmm
+	5.25 	1 x steamy tiny pork b's
+	12.75 	total
+coy
+	3.00 	1 x scally panz
+	3.00 	total
+david
+	10.50 	1 x gar gar brockies
+	10.50 	total
+tim
+	10.50 	2 x pf pork dumps
+	10.50 	total
+terry
+	5.25 	1 x friend tiny pork b's
+	5.25 	1 x pf pork dumps
+	10.50 	total
+sabena
+	7.25 	1 x tiny crabby porky bunz
+	7.25 	total
+andrea
+	12.75 	1 x 'noki mush mush cressy
+	12.75 	total
+shaginaw
+	12.50 	1 x lil genny tsos
+	12.50 	total
+mc2
+	7.00 	1 x beefy brocs
+	7.00 	total
+============================================
+totals owed (+ tax n tip)
+--------------------------------------------
+flora 		5.45
+tuck 		15.43
+coy 		3.63
+david 		12.71
+tim 		12.71
+mc2 		8.47
+terry 		12.71
+sabena 		8.77
+andrea 		15.43
+shaginaw 		15.13
+george 		4.24
+============================================
+order summary
+--------------------------------------------
+subtotal: 	94.75
+tax/tip: 	19.91
+total: 		114.66

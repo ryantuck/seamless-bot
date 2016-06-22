@@ -33,5 +33,40 @@
         "real_name": "steamed pork dumplings",
         "better_name": "steamy pork dumps",
         "price": 5.25
+    },
+    "103": {
+        "real_name": "broccoli with garlic sauce",
+        "better_name": "gar gar brockies",
+        "price": 10.50
+    },
+    "38": {
+        "real_name": "shredded pork and vegetable soup",
+        "better_name": "shreddy por por veggie stew",
+        "price": 3.50
+    },
+    "1": {
+        "real_name": "steamed tiny buns with crab meat and pork",
+        "better_name": "tiny crabby porky bunz",
+        "price": 7.25
+    },
+    "114": {
+        "real_name": "watercress sauteed with enoki mushrooms",
+        "better_name": "'noki mush mush cressy",
+        "price": 12.75
+    },
+    "165": {
+        "real_name": "beef and broccoli",
+        "better_name": "beefy brocs",
+        "price": 7
+    },
+    "8": {
+        "real_name": "shrimp dumplings",
+        "better_name": "shrimmmmmmmmmmmmm",
+        "price": 4.50
+    },
+    "71": {
+        "real_name": "general tso's chicken",
+        "better_name": "lil genny tsos",
+        "price": 12.50
     }
 }

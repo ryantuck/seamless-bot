@@ -5,7 +5,7 @@ import json
 # load configs
 with open('menu.json') as f:
     menu = json.load(f)
-with open('order.json') as f:
+with open('orders/2016-06-22.json') as f:
     order = json.load(f)
 
 # compute subtotals of all items purchased
