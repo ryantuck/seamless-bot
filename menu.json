@@ -34,6 +34,11 @@
         "better_name": "steamy pork dumps",
         "price": 5.25
     },
+    "37": {
+        "real_name": "egg drop soup",
+        "better_name": "lil eggy drops",
+        "price": 3.25
+    },
     "103": {
         "real_name": "broccoli with garlic sauce",
         "better_name": "gar gar brockies",
@@ -43,6 +48,16 @@
         "real_name": "shredded pork and vegetable soup",
         "better_name": "shreddy por por veggie stew",
         "price": 3.50
+    },
+    "98": {
+        "real_name": "modern peking style sauteed tofu",
+        "better_name": "moddy peek-sty sauty tof'",
+        "price": 12.75
+    },
+    "13": {
+        "real_name": "shanghai spring rolls",
+        "better_name": "shaggy springers",
+        "price": 2.75
     },
     "1": {
         "real_name": "steamed tiny buns with crab meat and pork",
@@ -63,6 +78,11 @@
         "real_name": "shrimp dumplings",
         "better_name": "shrimmmmmmmmmmmmm",
         "price": 4.50
+    },
+    "94": {
+        "real_name": "bean curd szechuan style",
+        "better_name": "bc szechy sty",
+        "price": 10.50
     },
     "71": {
         "real_name": "general tso's chicken",
